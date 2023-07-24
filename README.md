@@ -1,9 +1,7 @@
 # **Chatbot AI menggunakan TensorFlow.js (Versi 1.0.0)**
 ---
-
 ![Chatbot AI](./assets/image/tensorflowjs.png)
 
---
 **Deskripsi Proyek**
 
 Proyek ini adalah sebuah chatbot AI sederhana yang dikembangkan menggunakan TensorFlow.js (Versi 1.0.0). Chatbot ini bertujuan untuk memberikan jawaban berdasarkan pertanyaan yang diterima dari pengguna. Dengan memanfaatkan teknologi NLP (Natural Language Processing) dan TensorFlow.js, chatbot ini dapat memahami niat (intent) dan entitas (entity) dari pertanyaan yang diajukan dan memberikan jawaban yang relevan.
