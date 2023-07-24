@@ -1,6 +1,6 @@
 **Chatbot AI menggunakan TensorFlow.js (Versi 1.0.0)**
 
-![Chatbot AI](./assets/image/tensorflowjs.png)
+![Chatbot AI](tensorflowjs.png)
 
 **Deskripsi Proyek**
 
